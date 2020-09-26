@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+    position: relative;
+}
+.main_list{
+    background-color:white;
+    float: left;
+    height:300px;
+    width:500px;
+    margin-left:350px;
+    position: absolute;
+
+}
+.main_content{
+    float:left;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:red;
+    position: relative;
+    
+}
+.mini{
+    float:right;
+    margin-left:380px;
+    font-size:small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:red;
+    position:relative;
+}
+button{
+    background-color: yellow;
+    color:rgb(63, 54, 54);
+    width:100px;
+    position: relative;
+    font-size:small;
+    border-radius:12px;
+    margin-bottom: 10px;
+    margin-left:350px;
+    display:inline-block;
+}
